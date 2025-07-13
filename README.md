@@ -17,6 +17,30 @@ Mass-Mail Dispatcher is a web-based tool built using HTML, CSS, and JavaScript t
 
 ---
 
+## ⚙️ How It Works
+
+1. **Upload Email List**: 
+   - The user uploads a `.csv` file containing a list of email addresses.
+   - JavaScript reads the file and extracts emails line by line.
+
+2. **Email Validation**:
+   - Each email address is checked using a regular expression.
+   - Valid and invalid emails are displayed in two separate tables on the page.
+
+3. **Compose Email**:
+   - The user enters the sender email, subject, and body in the provided form.
+   - When the form is submitted, an SMTP email is sent to the intended recipient.
+
+4. **Send Email**:
+   - Uses the `Email.send()` function from SMTP.js with user-provided credentials and content.
+   - A confirmation alert is shown once the email is sent successfully.
+
+5. **Scroll Navigation**:
+   - The page includes a scroll-to-top button for easy navigation.
+   - Automatic scrolling to valid/invalid email sections upon upload.
+
+---
+
 ## 📂 Project Structure
 
 ```
