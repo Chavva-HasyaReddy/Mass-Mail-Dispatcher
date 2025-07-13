@@ -25,23 +25,27 @@ Mass-Mail-Dispatcher/
 ├── index.html         # Main HTML page
 ├── style.css          # Styling for the page
 ├── script.js          # JavaScript logic for validation and mail sending
-├── Report.pdf         # Project report (PDF)
-├── Report.docx        # Project report (Word)
-├── Mass Mail dispatcher.mp4  # Demo video
 ```
+
+---
+
+## 🔗 GitHub Repository
+
+Project Source Code: [Mass Mail Dispatcher GitHub](https://github.com/Chavva-HasyaReddy/Mass-Mail-Dispatcher)
 
 ---
 
 ## 📽️ Demo Video
 
-▶️ [Click to watch the demo](#)  
-*(Update with actual link if hosted on Google Drive, YouTube, etc.)*
+Watch the project demo video here:  
+▶️ [Mass Mail Dispatcher Demo – Google Drive](https://drive.google.com/file/d/1z08L8QAN40YUvEzUJYPSDcAvurixWnmG/view?usp=sharing)
 
 ---
 
-## 📸 Screenshots
+## 📄 Project Report
 
-*(Optional: You can add screenshots here to show the interface and functionality)*
+Read the full project report here:  
+📘 [Mass Mail Dispatcher Report – Google Drive](https://drive.google.com/file/d/1rU7ERlE5Vd2WAPY4a71O-Ux-7YkCqvuQ/view?usp=sharing)
 
 ---
 
