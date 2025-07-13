@@ -90,7 +90,6 @@ Email.send({
 ## 👨‍💻 Authors
 
 - **Chavva Hasya Reddy**
-- *(Add teammate names if applicable)*
 
 ---
 
